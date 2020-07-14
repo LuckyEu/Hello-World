@@ -1,2 +1,2 @@
 # Hello-World
-the Python beginner's repository
+the Python code repository
