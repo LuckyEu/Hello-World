@@ -15,7 +15,7 @@ print(df.info)
 
 # Overfitting and underfitting of KNeighborsClassifier with n neighbors
 
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.neighbors import KNeighborsClassifier 
 from sklearn.model_selection import train_test_split
 
 # Split into training and test set
