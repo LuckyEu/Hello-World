@@ -13,7 +13,7 @@ print(df.info)
 # data cleaning 
 ...
 
-Overfitting and underfitting of KNeighborsClassifier with n neighbors
+# Overfitting and underfitting of KNeighborsClassifier with n neighbors
 
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
